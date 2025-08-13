@@ -1,2 +1,2 @@
 # micrograd
-This is a replica of micrograd by Andrej Karpathy
+This is my interpretation micrograd by Andrej Karpathy
